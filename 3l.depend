@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1587759660 source:c:\users\Юыќур.lenovo-pc\desktop\3l\main.cpp
+	<iostream>
+	"software.h"
+	"opsis.h"
+	"graphiceditor.h"
+	"develenvir.h"
+
+1587746455 source:c:\users\Юыќур.lenovo-pc\desktop\3l\software.cpp
+	<iostream>
+	"software.h"
+
+1587749060 c:\users\Юыќур.lenovo-pc\desktop\3l\software.h
+
+1587755489 source:c:\users\Юыќур.lenovo-pc\desktop\3l\opsis.cpp
+	<iostream>
+	"software.h"
+	"opsis.h"
+
+1587755055 c:\users\Юыќур.lenovo-pc\desktop\3l\opsis.h
+	"software.h"
+
+1587757454 source:c:\users\Юыќур.lenovo-pc\desktop\3l\develenvir.cpp
+	<iostream>
+	"develenvir.h"
+	"software.h"
+
+1587757454 c:\users\Юыќур.lenovo-pc\desktop\3l\develenvir.h
+	"software.h"
+
+1587757454 source:c:\users\Юыќур.lenovo-pc\desktop\3l\graphiceditor.cpp
+	<iostream>
+	"graphiceditor.h"
+	"software.h"
+
+1587757453 c:\users\Юыќур.lenovo-pc\desktop\3l\graphiceditor.h
+	"software.h"
+
